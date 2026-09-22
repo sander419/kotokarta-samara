@@ -18,3 +18,7 @@ View your app in AI Studio: https://ai.studio/apps/3c78e00c-cbe7-4821-8cde-08a7a
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Авторство
+
+Проект «Котокарта — Самара» — авторская разработка sander419. Копирование и выдача за своё изобретение не допускаются, см. [LICENSE](LICENSE).
