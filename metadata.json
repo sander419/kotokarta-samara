@@ -1,0 +1,6 @@
+{
+  "name": "Котокарта — Самара",
+  "description": "Гео-платформа заботы об уличных котах в Самаре: Zero-Harm защита, кошачий паспорт, карта укрытий и волонтерский хаб",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
